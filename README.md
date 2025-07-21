@@ -44,10 +44,6 @@ npm run lint
 npm run format
 ```
 
-## @nestjs/cli 커멘드
-
-![alt text](image-1.png)
-
 ## Project 계속
 
 - **controller** 생성
